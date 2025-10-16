@@ -26,7 +26,7 @@
   <hr>
   <ul>
 
-My name is Alexis Newton, and I am an Assisstant Professor at Augusta University as of 2025. 
+My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. 
 
 </p><p>
 
