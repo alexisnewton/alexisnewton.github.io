@@ -17,14 +17,7 @@
  	<img src="alexis_headshot.jpg" width="335" height="450">
 	<figcaption>Photo by <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros</a></figcaption></figure><br>
 
-    <td width="525" valign="top">Alexis Newton (<a href="mailto:alexis.newton@emory.edu">alexis.newton@emory.edu</a>)<br>
-      Office:&nbsp;W431 Math and Science Center <br>
-      <!--      Office Hours:<br>
-		Thursdays, 5:10 - 6<br>-->
-      <a href="http://www.math.emory.edu/">Department of Mathematics Science<br>
-      </a>
-      <a href="http://www.emory.edu/">Emory University</a><BR>
-
+    <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>)<br>
       <A HREF="CV_Newton.pdf">Curriculm Vitae</A>
 
 <hr>
@@ -32,8 +25,8 @@
   <hr>
   <ul>
 
-My name is Alexis Newton, and I am a fifth-year doctoral candidate at Emory University. I am on the job market this year.
-         My advisor is <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
+My name is Alexis Newton, and I am an Assisstant Professor at Augusta University as of 2025. I did my PhD at Emory University from 2020-2025.
+         My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
 	 Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research.
 
 </p><p>
