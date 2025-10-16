@@ -1,14 +1,7 @@
 ]
 <title>Alexis Newton</title>
-<BODY BGCOLOR="thistle" TEXT="black">
 
-<body>
-	<body link="indigo" alink="indigo" vlink="indigo">
-</body>
-<center>
-</center>
-<hr noshade>
-	
+
 <table border="0">
   <tr>
     <td width="335" height="440" align="center" valign="top">
