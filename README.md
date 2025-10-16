@@ -19,13 +19,13 @@
 
 My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. </p><p>
 
-	I did my PhD at Emory University from 2020-2025. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
-	 Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research.</p><p>
-
+I did my PhD at Emory University from 2020-2025. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
 	 
-         I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018.
+I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018.
 
-</p><p> Previously, I was a co-organizer of <a href = "https://sites.google.com/view/emorygradalgntseminar/home">RANT</a> - Emory's weekly graduate student seminar in algebra and number theory, with <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros.</a> 
+Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research.</p><p>
+
+
 </p><p>  <b> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A></b>.</ul>
 
 <hr>
