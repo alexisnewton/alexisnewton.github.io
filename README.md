@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
+
     <title>Alexis Newton</title>
   <BODY BGCOLOR="thistle" TEXT="black">
     </head>
