@@ -14,7 +14,7 @@
   <tr>
     <td width="335" height="450" align="center" valign="top">
 	<figure>
- 	<img src="alexis_headshot.jpg" >
+ 	<img src="alexis_headshot.jpg" width="400" height="450">
 	<figcaption>Photo by <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros</a></figcaption></figure><br>
 
     <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>)<br>
