@@ -71,7 +71,6 @@ Published in Innovation: Journal of Creative and Scholarly Work vol. 7, 2019.
 
   </tr>
 
-<tr><td><td>
 
 
 
