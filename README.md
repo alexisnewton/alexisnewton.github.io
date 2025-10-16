@@ -17,7 +17,7 @@
               </figcaption>
             </figure>
             <br>
-          <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
+          <td width="525" valign="top">Alexis Newton ( <a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
             <a href="https://www.augusta.edu/scimath/mathematics/">Department of Mathematics <br>
             </a>
             <a href="http://www.augusta.edu/">Augusta University</a>
@@ -26,10 +26,7 @@
             <hr>
             <b> About Me</b>
             <hr>
-            <ul> My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. 
-             
-               <p> I completed my PhD in 2025 at Emory University. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. </p>
-               
+            <ul> My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. <p> I completed my PhD in 2025 at Emory University. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. </p>
               <p> I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018. </p>
               <p> Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research. </p>
               </p>
