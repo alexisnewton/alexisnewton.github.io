@@ -1,9 +1,7 @@
-
-Alexis Newton
-
+]
 <title>Alexis Newton</title>
 <BODY BGCOLOR="thistle" TEXT="black">
-</head>
+
 <body>
 	<body link="indigo" alink="indigo" vlink="indigo">
 </body>
