@@ -28,8 +28,8 @@ My name is Alexis Newton, and I am an Assisstant Professor at Augusta University
          I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018.
 
 </p><p> Previously, I was a co-organizer of <a href = "https://sites.google.com/view/emorygradalgntseminar/home">RANT</a> - Emory's weekly graduate student seminar in algebra and number theory, with <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros.</a> 
-</p><p>  <b> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A></b>.
-</ul>
+</p><p>  <b> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A></b>.</ul>
+
 <hr>
   <b> Publications</b>
   <hr>
