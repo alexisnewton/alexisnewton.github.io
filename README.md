@@ -26,14 +26,13 @@
             <hr>
             <b> About Me</b>
             <hr>
-            <ul> My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. 
+            <ul>
+              <p>My name is Alexis Newton, and I am an Assistant Professor at Augusta University. </p>
               <p> I completed my PhD in 2025 at Emory University. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. </p>
               <p> I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018. </p>
               <p> Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research. </p>
               </p>
-              <p>
-                <b> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A>
-                </b>.
+              <p> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A>. </p>
             </ul>
             <hr>
             <b> Publications</b>
