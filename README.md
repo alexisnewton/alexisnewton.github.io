@@ -10,9 +10,8 @@
         <tr>
           <td width="335" height="450" align="center" valign="top">
             <figure>
-              <img src="alexis_headshot.jpg" width="340" height="430">
-              <figcaption>Photo by <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros</a>
-              </figcaption>
+              <img src="alexis_headshot.jpg" width="350" height="430">
+              
             </figure>
             <br>
           <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
