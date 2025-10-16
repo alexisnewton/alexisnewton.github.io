@@ -18,17 +18,15 @@
             </figure>
             <br>
           <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
-            <!--      Office Hours:<br>
-		Mondays 1-3pm, Wednesdays 12:30-2pm <br>-->
-            <a href="http://www.math.emory.edu/">Department of Mathematics Science <br>
+            <a href="https://www.augusta.edu/scimath/mathematics/">Department of Mathematics <br>
             </a>
-            <a href="http://www.emory.edu/">Emory University</a>
+            <a href="http://www.augusta.edu/">Augusta University</a>
             <BR>
             <A HREF="CV_Newton.pdf">Curriculm Vitae</A>
             <hr>
             <b> About Me</b>
             <hr>
-            <ul> My name is Alexis Newton, and I am a fifth-year doctoral candidate at Emory University. I am on the job market this year. My advisor is <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research. </p>
+            <ul> My name is Alexis Newton, and I am an Assisstant Professor at Augusta University. I completed my Phd in 2025 at Emory University. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research. </p>
               <p> I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018. </p>
               <p> Previously, I was a co-organizer of <a href="https://sites.google.com/view/emorygradalgntseminar/home">RANT</a> - Emory's weekly graduate student seminar in algebra and number theory, with <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros.</a>
               </p>
