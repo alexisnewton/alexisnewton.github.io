@@ -4,7 +4,7 @@
 
 <table border="0">
   <tr>
-    <td width="335" height="440" align="center" valign="top">
+    <td width="330" height="430" align="center" valign="top">
 	<figure>
  	<img src="alexis_headshot.jpg" width="330" height="430">
 	<figcaption>Photo by <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros</a></figcaption></figure><br>
