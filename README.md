@@ -55,10 +55,7 @@ Published in Innovation: Journal of Creative and Scholarly Work vol. 7, 2019.
 	  
 <li><a href="https://blogs.ams.org/mathgradblog/2021/10/18/midterm-studying-advice-i-could-have-used-a-week-ago/">Midterm studying advice I could have used a week ago</a>, AMS Graduate Student Blog</li>
         
-<li><a href="https://www.mathvalues.org/masterblog/caffeine-the-frenemy-of-mathematicians">Caffeine: The Frenemy of Mathematicians</a>, MAA Graduate Student Blog</li>
-  </td>
-
-  </tr>
+<li><a href="https://www.mathvalues.org/masterblog/caffeine-the-frenemy-of-mathematicians">Caffeine: The Frenemy of Mathematicians</a>, MAA Graduate Student Blog</li>  </td>  </tr>
 
 
 
