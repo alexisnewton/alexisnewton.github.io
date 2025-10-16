@@ -26,7 +26,11 @@
   <hr>
   <ul>
 
-My name is Alexis Newton, and I am an Assisstant Professor at Augusta University as of 2025. I did my PhD at Emory University from 2020-2025.
+My name is Alexis Newton, and I am an Assisstant Professor at Augusta University as of 2025. 
+
+</p><p>
+
+	I did my PhD at Emory University from 2020-2025.
          My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
 	 Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research.
 
