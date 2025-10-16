@@ -1,6 +1,5 @@
 
-<!DOCTYPE html>
-<html>
+
 <head>
 <title>Alexis Newton</title>
 <BODY BGCOLOR="thistle" TEXT="black">
@@ -79,5 +78,3 @@ Published in Innovation: Journal of Creative and Scholarly Work vol. 7, 2019.
 
 
 
-</body>
-</html>
