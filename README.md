@@ -17,7 +17,7 @@
               </figcaption>
             </figure>
             <br>
-          <td width="525" valign="top">Alexis Newton ( <a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
+          <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
             <a href="https://www.augusta.edu/scimath/mathematics/">Department of Mathematics <br>
             </a>
             <a href="http://www.augusta.edu/">Augusta University</a>
@@ -43,7 +43,7 @@
             <hr>
             <b> Teaching</b>
             <hr>
-            <ul> For the Fall 2024 semester, I am teaching Math 112 (Calculus II) Section 04. Information for that course can be found on the class canvas site. </ul>
+            <ul> For the Fall 2025 semester, I am teaching Precalculus, sections C, D, G, and I. Information for those courses can be found on the class D2L site. </ul>
             <hr>
             <b> Writing</b>
             <hr>
