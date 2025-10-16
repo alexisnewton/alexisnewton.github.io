@@ -15,7 +15,7 @@
   <tr>
     <td width="335" height="440" align="center" valign="top">
 	<figure>
- 	<img src="alexis_headshot.jpg" width="350" height="400">
+ 	<img src="alexis_headshot.jpg" width="350" height="430">
 	<figcaption>Photo by <a href="https://sarangop1728.github.io/index.html">Santiago Arango-Pineros</a></figcaption></figure><br>
 
     <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>)<br>
@@ -30,8 +30,7 @@ My name is Alexis Newton, and I am an Assisstant Professor at Augusta University
 
 </p><p>
 
-	I did my PhD at Emory University from 2020-2025.
-         My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
+	I did my PhD at Emory University from 2020-2025. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>.
 	 Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research.
 
 </p><p>
