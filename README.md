@@ -56,12 +56,12 @@ Published in Innovation: Journal of Creative and Scholarly Work vol. 7, 2019.
   <b> Teaching</b>
   <hr>
   <ul>
-	  For the Fall 2024 semester, I am teaching Math 112 (Calculus II) Section 04. Information for that course can be found on the class canvas site. </ul>
+	  For the Fall 2025 semester, I am teaching four sections of Precalculus. Information for that course can be found on the class D2L site. </ul>
 
 <hr>
   <b> Writing</b>
   <hr>
-  <ul> I am a staff writer for the <a href="https://www.mathvalues.org/masterblog/category/Grad+Student+Blog">MAA Graduate Student Blog: Learning Through the Ranks</a>. I was also a writer for the <a href="https://blogs.ams.org/mathgradblog/">AMS Graduate Student Blog</a>, which was retired in 2021. The following is a selection of my blog posts:
+  <ul> I was a staff writer for the <a href="https://www.mathvalues.org/masterblog/category/Grad+Student+Blog">MAA Graduate Student Blog: Learning Through the Ranks</a>. I was also a writer for the <a href="https://blogs.ams.org/mathgradblog/">AMS Graduate Student Blog</a>, which was retired in 2021. The following is a selection of my blog posts:
 </p><p> <li><a href="https://blogs.ams.org/mathgradblog/2021/11/15/what-i-needed-to-hear-but-no-one-said/">What I needed to hear, but no one said</a>, AMS Graduate Student Blog</li>
 	  
 <li><a href="https://blogs.ams.org/mathgradblog/2021/10/18/midterm-studying-advice-i-could-have-used-a-week-ago/">Midterm studying advice I could have used a week ago</a>, AMS Graduate Student Blog</li>
