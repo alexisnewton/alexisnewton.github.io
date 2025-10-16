@@ -17,9 +17,9 @@
               </figcaption>
             </figure>
             <br>
-          <td width="525" valign="top">Alexis Newton ( <a href="mailto:alexis.newton@emory.edu">alexis.newton@emory.edu</a>) <br> Office:&nbsp;W431 Math and Science Center <br>
+          <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
             <!--      Office Hours:<br>
-		Thursdays, 5:10 - 6<br>-->
+		Mondays 1-3pm, Wednesdays 12:30-2pm <br>-->
             <a href="http://www.math.emory.edu/">Department of Mathematics Science <br>
             </a>
             <a href="http://www.emory.edu/">Emory University</a>
