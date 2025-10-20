@@ -1,8 +1,7 @@
 <html>
   <head>
     <title>Alexis Newton</title>
-  <BODY BGCOLOR="thistle" TEXT="black">
-    </head>
+  <BODY BGCOLOR="thistle" TEXT="black"> </head>
     <body>
       <body link="indigo" alink="indigo" vlink="indigo"></body>
       <center></center>
@@ -16,7 +15,7 @@
               </figcaption>
             </figure>
             <br>
-          <td width="525" valign="top">Alexis Newton ( <a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
+          <td width="525" valign="top">Alexis Newton (<a href="mailto:anewton2@augusta.edu">anewton2@augusta.edu</a>) <br> Office:&nbsp;W2001 Science Hall, Summerville Campus <br>
             <a href="https://www.augusta.edu/scimath/mathematics/">Department of Mathematics <br>
             </a>
             <a href="http://www.augusta.edu/">Augusta University</a>
@@ -45,7 +44,7 @@
             <hr>
             <b> Writing</b>
             <hr>
-            <ul> I am a staff writer for the <a href="https://www.mathvalues.org/masterblog/category/Grad+Student+Blog">MAA Graduate Student Blog: Learning Through the Ranks</a>. I was also a writer for the <a href="https://blogs.ams.org/mathgradblog/">AMS Graduate Student Blog</a>, which was retired in 2021. The following is a selection of my blog posts: </p>
+            <ul> I am a staff writer for the <a href="https://www.mathvalues.org/masterblog/category/Grad+Student+Blog">MAA Graduate Student Blog: Learning Through the Ranks</a>. I was also a writer for the <a href="https://blogs.ams.org/mathgradblog/">AMS Graduate Student Blog</a>, which was retired in 2021. The following is a selection of my blog posts: 
               <p>
                 <li>
                   <a href="https://blogs.ams.org/mathgradblog/2021/11/15/what-i-needed-to-hear-but-no-one-said/">What I needed to hear, but no one said</a>, AMS Graduate Student Blog
