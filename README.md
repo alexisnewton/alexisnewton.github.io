@@ -1,9 +1,8 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Alexis Newton</title>
-  <BODY BGCOLOR="thistle" TEXT="black">
-    </head>
+  <BODY BGCOLOR="thistle" TEXT="black"> </head>
     <body>
       <body link="indigo" alink="indigo" vlink="indigo"></body>
       <center></center>
@@ -31,7 +30,7 @@
               <p> I completed my PhD in 2025 at Emory University. My advisor was <a href="https://dmzb.github.io/" target="_blank">David Zureick-Brown</a>. </p>
               <p> I earned my MA in Mathematics at Wake Forest University under <a href="http://users.wfu.edu/rouseja/" target="_blank">Jeremy Rouse</a> in 2020, and I earned my BA in Mathematics and English Writing at High Point University in 2018. </p>
               <p> Generally, I am interested in Arithmetic Geometry and Number Theory, with a preference for computational research. </p>
-              </p>
+              
               <p> My Curriculum Vitae can be found <A HREF="CV_Newton.pdf">here</A>. </p>
             </ul>
             <hr>
@@ -57,9 +56,7 @@
                 </li>
                 <li>
                   <a href="https://www.mathvalues.org/masterblog/caffeine-the-frenemy-of-mathematicians">Caffeine: The Frenemy of Mathematicians</a>, MAA Graduate Student Blog
-                </li>
-          </td>
-        </tr>
+                </li> </td> </tr>
         <tr>
           <td>
           <td>
