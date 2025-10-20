@@ -56,7 +56,9 @@
                 </li>
                 <li>
                   <a href="https://www.mathvalues.org/masterblog/caffeine-the-frenemy-of-mathematicians">Caffeine: The Frenemy of Mathematicians</a>, MAA Graduate Student Blog
-                </li> </td> </tr>
+                </li> 
+                </td>
+                </tr>
         <tr>
           <td>
           <td>
